@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU ILLBERG</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :          8h-18h30</string>
+			<key>tuesday</key>
+			<string>Mardi :          8h-18h30</string>
+			<key>wednesday</key>
+			<string>Mercredi :     8h-18h30</string>
+			<key>thursday</key>
+			<string>Jeudi :           8h-18h30</string>
+			<key>friday</key>
+			<string>Vendredi :     8h-18h30</string>
+			<key>saturday</key>
+			<string>Samedi :       9h-12h</string>
+			<key>coordinate</key>
+			<string>8 rue des frères Lumière 68093 Mulhouse cedex</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU FONDERIE</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :         8h30-18h30</string>
+			<key>tuesday</key>
+			<string>Mardi :         8h30-18h30</string>
+			<key>wednesday</key>
+			<string>Mercredi :    8h30-18h30</string>
+			<key>thursday</key>
+			<string>Jeudi :          8h30-18h30</string>
+			<key>friday</key>
+			<string>Vendredi :    8h30-18h30</string>
+			<key>saturday</key>
+			<string>Samedi :       9h-12h</string>
+			<key>coordinate</key>
+			<string>16 rue de la Fonderie 68100 Mulhouse</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>COLMAR</string>
+			<key>title</key>
+			<string>BU COLMAR</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :          8h30-19h</string>
+			<key>tuesday</key>
+			<string>Mardi :          8h30-19h</string>
+			<key>wednesday</key>
+			<string>Mercredi :     8h30-19h</string>
+			<key>thursday</key>
+			<string>Jeudi :           8h30-19h</string>
+			<key>friday</key>
+			<string>Vendredi :     8h30-18h</string>
+			<key>saturday</key>
+			<string>Samedi :        9h-12h</string>
+			<key>coordinate</key>
+			<string>34 rue du Grillenbreit 68000 Colmar</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU ENSMU</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :       7h45 - 12h et 12h45 - 17h30</string>
+			<key>tuesday</key>
+			<string>Mardi :       7h45 - 12h et 12h45 - 17h30</string>
+			<key>wednesday</key>
+			<string>Mercredi :  7h45-12h et 13h-17h30</string>
+			<key>thursday</key>
+			<string>Jeudi :        7h45 - 12h et 12h45 - 17h30</string>
+			<key>friday</key>
+			<string>Vendredi :  7h45 - 12h et 12h45 - 17h30</string>
+			<key>saturday</key>
+			<string>Samedi :     Fermé</string>
+			<key>coordinate</key>
+			<string>3 rue Alfred Werner 68093 Mulhouse cedex</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU ENSISA</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :         12h30-17h</string>
+			<key>tuesday</key>
+			<string>Mardi :         8h-19h</string>
+			<key>wednesday</key>
+			<string>Mercredi :     8h-19h</string>
+			<key>thursday</key>
+			<string>Jeudi :          8h-17h</string>
+			<key>friday</key>
+			<string>Vendredi :     Fermé</string>
+			<key>saturday</key>
+			<string>Samedi :       Fermé</string>
+			<key>coordinate</key>
+			<string>12 rue Alfred Werner 68093 Mulhouse cedex</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU DES COLLINES</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :             8h-19h</string>
+			<key>tuesday</key>
+			<string>Mardi :             8h-19h</string>
+			<key>wednesday</key>
+			<string>Mercredi :        8h-19h</string>
+			<key>thursday</key>
+			<string>Jeudi :              8h-19h</string>
+			<key>friday</key>
+			<string>Vendredi :        8h-17h</string>
+			<key>saturday</key>
+			<string>Samedi :           Fermé</string>
+			<key>coordinate</key>
+			<string>61 rue Albert Camus 68093 Mulhouse cedex</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>MULHOUSE</string>
+			<key>title</key>
+			<string>BU IS2M</string>
+			<key>schedules</key>
+			<string>Schedules</string>
+			<key>monday</key>
+			<string>Lundi :             8h-12h et 13h-17h</string>
+			<key>tuesday</key>
+			<string>Mardi :             8h-12h et 13h-17h</string>
+			<key>wednesday</key>
+			<string>Mercredi :        8h-12h et 13h-17h</string>
+			<key>thursday</key>
+			<string>Jeudi :              8h-12h et 13h-17h</string>
+			<key>friday</key>
+			<string>Vendredi :        8h-12h et 13h-16h</string>
+			<key>saturday</key>
+			<string>Samedi :           Fermé</string>
+			<key>coordinate</key>
+			<string>15 rue Jean Starcky 68057 Mulhouse Cedex</string>
+		</dict>
+	</array>
+</dict>
+</plist>
